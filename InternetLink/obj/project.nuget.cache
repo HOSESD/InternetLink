@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCxb+q1RmY5MegpVm7Em5feZB0YXr1hKY6Keh6ch1qC6vI5jBLVSCynGwH93msqxoBTRorth3YU/VA7OU2XoxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HildronOS\\source\\repos\\InternetLink\\InternetLink\\InternetLink.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HildronOS\\.nuget\\packages\\microsoft.web.webview2\\1.0.1722.45\\microsoft.web.webview2.1.0.1722.45.nupkg.sha512"
+  ],
+  "logs": []
+}
